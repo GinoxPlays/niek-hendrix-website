@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    transition: 0.2s;
+    font-weight: bold;
+    
+ 
+ 
+ }
+
+ .youtube-video{
+   margin-left: 200px;
+  
+   }
+
+ a:hover{
+    transition: 0.2s;
+    color: red;
+ }
+
+ 
+ .menu li{
+    font-size:15px;
+ }
+
+ 
+ 
+ .menu{
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    list-style-type: none;
+    gap: 40px;
+
+ }
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ .has-small-font-size{
+    margin-left: 200px;
+
+ }
+
+ .wp-block-heading{
+
+    margin-left: 197px;
+    padding-top: 100px;
+    
+ }
+
+   .wp-block-heading p{
+ margin-left: 200px;
+
+ }
+
+    p{
+    margin-left: 200px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 900px;
+
+ }
+
+   .about{
+      color: red;
+   }
+
+ footer{
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    color: white;
+    padding: 30px;
+    
+      
+ }
+
+   .footer-text p{
+      margin-left: 0;
+      
+   }
+
+
+ 
+ .imgart {
+   text-align: center;
+   
+ }
+
+ .niekimg {
+   margin-left: 200px;
+
+ }
+
+ .has-text-align-left{
+   width: 700px;
+   margin-left: 275px;
+   padding-bottom: 30px;
+ }
